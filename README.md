@@ -1,1 +1,1 @@
-# Curso-Python-para-Finan-as-Investimentos-e-An-lise-de-dados
+# Exercícios do Curso Udemy - Python para Finanças
